@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Capsy_videocall",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502
+	}
+}
